@@ -1,10 +1,10 @@
 {
   "_format": "hh-sol-cache-2",
   "files": {
-    "/home/kakashi/StudentManagement/contracts/StudentRecords.sol": {
-      "lastModificationDate": 1715527614382,
-      "contentHash": "9794a96bf4245b6465b7ffc75c275e98",
-      "sourceName": "contracts/StudentRecords.sol",
+    "C:\\Users\\Dell\\New folder\\StudentManagement\\contracts\\WeMeet.sol": {
+      "lastModificationDate": 1717749046904,
+      "contentHash": "777eea8e2b6f2614ba5c4ce588dc15a1",
+      "sourceName": "contracts/WeMeet.sol",
       "solcConfig": {
         "version": "0.8.24",
         "settings": {
@@ -34,7 +34,7 @@
         "^0.8.0"
       ],
       "artifacts": [
-        "StudentRecords"
+        "WeMeet"
       ]
     }
   }
